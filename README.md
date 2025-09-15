@@ -24,5 +24,8 @@ The dataset includes nearly 5,000 channels across 96 countries, with details suc
 👉 For full findings, see the [detailed report](reports/YouTube_Channel_Analytics_Report.docx).
 
 ---
-
-## 📂 Project Structure
+👩‍💻 Author
+Mehakpreet Kaur
+🎓 Master of Applied Computing, University of Windsor
+🔗 LinkedIn(https://www.linkedin.com/in/mehakpreetkaur22/)
+💻 GitHub(https://github.com/mehakpreet22)
